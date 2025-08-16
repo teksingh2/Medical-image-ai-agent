@@ -4,7 +4,8 @@ A **Medical Imaging Diagnosis Agent** built on **Agno** powered by **Gemini 2.0 
 The agent acts as a virtual medical imaging diagnosis expert, offering **detailed diagnostic insights** and **explanations** for various medical images and videos.
 
 ---
-
+![App Screenshot](https://github.com/teksingh2/Medical-image-ai-agent/blob/main/assets/img1.png)
+![App Screenshot2](https://github.com/teksingh2/Medical-image-ai-agent/blob/main/assets/img2.png)
 ## ✨ Features
 
 - **Comprehensive Image Analysis**  
